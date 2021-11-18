@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Feedurhead-1
 - 👀 I’m interested in ... freedom expanding tech
-- 🌱 I’m currently learning ...about nothing, intresting how pervasive "nothing" is in reality...
-- 💞️ I’m looking to collaborate on ... @mesh4all and @decentralfi
+- 🌱 I’m currently learning ...about nothing, interesting how pervasive "nothing" is in reality...
+- 💞️ I’m looking to collaborate on ... @mesh4all and @decentralfi @casheaapp
 - 📫 How to reach me ... twitter @feedurhead
 
 <!---
